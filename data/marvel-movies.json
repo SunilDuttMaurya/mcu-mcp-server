@@ -1,0 +1,520 @@
+{
+  "catalog": "Marvel Cinematic Universe",
+  "scope": {
+    "included": [
+      "Marvel Studios feature films",
+      "Marvel Studios Disney+ television series and specials",
+      "MCU-connected Sony Spider-Man films"
+    ],
+    "excluded": [
+      "Standalone Marvel Comics adaptations not connected to the MCU",
+      "Marvel Television series that are not currently treated as MCU canon"
+    ]
+  },
+  "last_updated": "2026-09-19",
+  "movies": [
+    {
+      "title": "Iron Man",
+      "type": "movie",
+      "status": "released",
+      "release_year": 2008,
+      "cast": ["Robert Downey Jr.", "Gwyneth Paltrow", "Jeff Bridges", "Terrence Howard"],
+      "about": "After being captured and forced to build a weapon, industrialist Tony Stark creates a powered suit and becomes Iron Man."
+    },
+    {
+      "title": "The Incredible Hulk",
+      "type": "movie",
+      "status": "released",
+      "release_year": 2008,
+      "cast": ["Edward Norton", "Liv Tyler", "Tim Roth", "William Hurt"],
+      "about": "Bruce Banner searches for a cure for the gamma radiation that transforms him into the Hulk while being pursued by the military."
+    },
+    {
+      "title": "Iron Man 2",
+      "type": "movie",
+      "status": "released",
+      "release_year": 2010,
+      "cast": ["Robert Downey Jr.", "Gwyneth Paltrow", "Don Cheadle", "Mickey Rourke", "Scarlett Johansson"],
+      "about": "Tony Stark faces government pressure, a rival weapons designer, and a dangerous enemy while expanding the Iron Man legacy."
+    },
+    {
+      "title": "Thor",
+      "type": "movie",
+      "status": "released",
+      "release_year": 2011,
+      "cast": ["Chris Hemsworth", "Natalie Portman", "Tom Hiddleston", "Anthony Hopkins"],
+      "about": "Banished from Asgard, Thor learns humility on Earth and must prove himself worthy of his power and his hammer."
+    },
+    {
+      "title": "Captain America: The First Avenger",
+      "type": "movie",
+      "status": "released",
+      "release_year": 2011,
+      "cast": ["Chris Evans", "Hayley Atwell", "Sebastian Stan", "Hugo Weaving"],
+      "about": "Steve Rogers becomes a super-soldier and leads the fight against Hydra during World War II."
+    },
+    {
+      "title": "The Avengers",
+      "type": "movie",
+      "status": "released",
+      "release_year": 2012,
+      "cast": ["Robert Downey Jr.", "Chris Evans", "Chris Hemsworth", "Mark Ruffalo", "Scarlett Johansson", "Jeremy Renner"],
+      "about": "Earth's greatest heroes unite to stop Loki and an alien invasion of New York."
+    },
+    {
+      "title": "Iron Man 3",
+      "type": "movie",
+      "status": "released",
+      "release_year": 2013,
+      "cast": ["Robert Downey Jr.", "Gwyneth Paltrow", "Don Cheadle", "Guy Pearce", "Ben Kingsley"],
+      "about": "Tony Stark confronts anxiety after the Battle of New York while investigating a terrorist known as the Mandarin."
+    },
+    {
+      "title": "Thor: The Dark World",
+      "type": "movie",
+      "status": "released",
+      "release_year": 2013,
+      "cast": ["Chris Hemsworth", "Natalie Portman", "Tom Hiddleston", "Christopher Eccleston"],
+      "about": "Thor teams with Loki to stop the Dark Elf Malekith from using an ancient weapon to plunge the universe into darkness."
+    },
+    {
+      "title": "Captain America: The Winter Soldier",
+      "type": "movie",
+      "status": "released",
+      "release_year": 2014,
+      "cast": ["Chris Evans", "Scarlett Johansson", "Sebastian Stan", "Anthony Mackie", "Samuel L. Jackson"],
+      "about": "Steve Rogers discovers a conspiracy within S.H.I.E.L.D. and faces a mysterious assassin from his past."
+    },
+    {
+      "title": "Guardians of the Galaxy",
+      "type": "movie",
+      "status": "released",
+      "release_year": 2014,
+      "cast": ["Chris Pratt", "Zoe Saldaña", "Dave Bautista", "Vin Diesel", "Bradley Cooper"],
+      "about": "A group of intergalactic misfits must work together to protect a powerful orb from the warlord Ronan."
+    },
+    {
+      "title": "Avengers: Age of Ultron",
+      "type": "movie",
+      "status": "released",
+      "release_year": 2015,
+      "cast": ["Robert Downey Jr.", "Chris Evans", "Mark Ruffalo", "Chris Hemsworth", "James Spader", "Elizabeth Olsen"],
+      "about": "The Avengers face Ultron, an artificial intelligence created to protect Earth that decides humanity is the greatest threat."
+    },
+    {
+      "title": "Ant-Man",
+      "type": "movie",
+      "status": "released",
+      "release_year": 2015,
+      "cast": ["Paul Rudd", "Evangeline Lilly", "Corey Stoll", "Michael Douglas"],
+      "about": "Thief Scott Lang becomes Ant-Man and learns to use shrinking technology to help stop a dangerous weapons transfer."
+    },
+    {
+      "title": "Captain America: Civil War",
+      "type": "movie",
+      "status": "released",
+      "release_year": 2016,
+      "cast": ["Chris Evans", "Robert Downey Jr.", "Scarlett Johansson", "Chadwick Boseman", "Tom Holland"],
+      "about": "The Avengers split over government oversight, forcing Captain America and Iron Man into a conflict between former allies."
+    },
+    {
+      "title": "Doctor Strange",
+      "type": "movie",
+      "status": "released",
+      "release_year": 2016,
+      "cast": ["Benedict Cumberbatch", "Rachel McAdams", "Chiwetel Ejiofor", "Tilda Swinton"],
+      "about": "A gifted but arrogant surgeon learns the mystic arts after an accident ends his medical career."
+    },
+    {
+      "title": "Guardians of the Galaxy Vol. 2",
+      "type": "movie",
+      "status": "released",
+      "release_year": 2017,
+      "cast": ["Chris Pratt", "Zoe Saldaña", "Dave Bautista", "Kurt Russell", "Pom Klementieff"],
+      "about": "The Guardians uncover the truth about Peter Quill's parentage while defending their found family from new threats."
+    },
+    {
+      "title": "Spider-Man: Homecoming",
+      "type": "movie",
+      "status": "released",
+      "release_year": 2017,
+      "cast": ["Tom Holland", "Michael Keaton", "Zendaya", "Jacob Batalon", "Robert Downey Jr."],
+      "about": "Teenager Peter Parker balances school life with being Spider-Man while tracking a weapons dealer called the Vulture."
+    },
+    {
+      "title": "Thor: Ragnarok",
+      "type": "movie",
+      "status": "released",
+      "release_year": 2017,
+      "cast": ["Chris Hemsworth", "Tom Hiddleston", "Cate Blanchett", "Tessa Thompson", "Mark Ruffalo"],
+      "about": "Thor must escape an alien arena and stop Hela from destroying Asgard."
+    },
+    {
+      "title": "Black Panther",
+      "type": "movie",
+      "status": "released",
+      "release_year": 2018,
+      "cast": ["Chadwick Boseman", "Michael B. Jordan", "Lupita Nyong'o", "Danai Gurira", "Letitia Wright"],
+      "about": "King T'Challa returns to Wakanda and faces a rival whose challenge threatens the nation's future and identity."
+    },
+    {
+      "title": "Avengers: Infinity War",
+      "type": "movie",
+      "status": "released",
+      "release_year": 2018,
+      "cast": ["Robert Downey Jr.", "Chris Evans", "Chris Hemsworth", "Josh Brolin", "Scarlett Johansson", "Chadwick Boseman"],
+      "about": "The Avengers and their allies attempt to stop Thanos from collecting the Infinity Stones and reshaping the universe."
+    },
+    {
+      "title": "Ant-Man and the Wasp",
+      "type": "movie",
+      "status": "released",
+      "release_year": 2018,
+      "cast": ["Paul Rudd", "Evangeline Lilly", "Michael Douglas", "Hannah John-Kamen", "Michelle Pfeiffer"],
+      "about": "Scott Lang joins Hope van Dyne on a mission into the Quantum Realm to rescue her mother."
+    },
+    {
+      "title": "Captain Marvel",
+      "type": "movie",
+      "status": "released",
+      "release_year": 2019,
+      "cast": ["Brie Larson", "Samuel L. Jackson", "Ben Mendelsohn", "Jude Law", "Annette Bening"],
+      "about": "Carol Danvers becomes one of the universe's most powerful heroes while uncovering the truth about her past during the 1990s."
+    },
+    {
+      "title": "Avengers: Endgame",
+      "type": "movie",
+      "status": "released",
+      "release_year": 2019,
+      "cast": ["Robert Downey Jr.", "Chris Evans", "Chris Hemsworth", "Mark Ruffalo", "Scarlett Johansson", "Jeremy Renner"],
+      "about": "The remaining Avengers attempt a desperate plan to reverse Thanos's destruction and restore the lives lost."
+    },
+    {
+      "title": "Spider-Man: Far From Home",
+      "type": "movie",
+      "status": "released",
+      "release_year": 2019,
+      "cast": ["Tom Holland", "Samuel L. Jackson", "Zendaya", "Jake Gyllenhaal", "Jacob Batalon"],
+      "about": "Peter Parker travels through Europe and teams with Mysterio while struggling with the legacy left by Tony Stark."
+    },
+    {
+      "title": "Black Widow",
+      "type": "movie",
+      "status": "released",
+      "release_year": 2021,
+      "cast": ["Scarlett Johansson", "Florence Pugh", "David Harbour", "Rachel Weisz", "Ray Winstone"],
+      "about": "Natasha Romanoff confronts her past and reunites with her former family to dismantle the Red Room."
+    },
+    {
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "type": "movie",
+      "status": "released",
+      "release_year": 2021,
+      "cast": ["Simu Liu", "Awkwafina", "Tony Leung", "Michelle Yeoh", "Meng'er Zhang"],
+      "about": "Shang-Chi is drawn into the Ten Rings organization and must face the legacy of his powerful father."
+    },
+    {
+      "title": "Eternals",
+      "type": "movie",
+      "status": "released",
+      "release_year": 2021,
+      "cast": ["Gemma Chan", "Richard Madden", "Angelina Jolie", "Salma Hayek", "Kumail Nanjiani"],
+      "about": "Ancient cosmic beings reunite after centuries apart to protect Earth from a hidden threat."
+    },
+    {
+      "title": "Spider-Man: No Way Home",
+      "type": "movie",
+      "status": "released",
+      "release_year": 2021,
+      "cast": ["Tom Holland", "Zendaya", "Benedict Cumberbatch", "Willem Dafoe", "Tobey Maguire", "Andrew Garfield"],
+      "about": "A spell to restore Peter Parker's secret identity opens the multiverse and brings villains from other realities."
+    },
+    {
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "type": "movie",
+      "status": "released",
+      "release_year": 2022,
+      "cast": ["Benedict Cumberbatch", "Elizabeth Olsen", "Xochitl Gomez", "Chiwetel Ejiofor", "Benedict Wong"],
+      "about": "Doctor Strange travels across realities to protect America Chavez while confronting dangerous multiversal forces."
+    },
+    {
+      "title": "Thor: Love and Thunder",
+      "type": "movie",
+      "status": "released",
+      "release_year": 2022,
+      "cast": ["Chris Hemsworth", "Natalie Portman", "Christian Bale", "Tessa Thompson", "Taika Waititi"],
+      "about": "Thor reunites with Jane Foster, now wielding Mjolnir, to stop the god-killing villain Gorr."
+    },
+    {
+      "title": "Black Panther: Wakanda Forever",
+      "type": "movie",
+      "status": "released",
+      "release_year": 2022,
+      "cast": ["Letitia Wright", "Lupita Nyong'o", "Danai Gurira", "Tenoch Huerta", "Angela Bassett"],
+      "about": "Wakanda mourns its king and must defend itself from the underwater kingdom of Talokan."
+    },
+    {
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "type": "movie",
+      "status": "released",
+      "release_year": 2023,
+      "cast": ["Paul Rudd", "Evangeline Lilly", "Jonathan Majors", "Kathryn Newton", "Michelle Pfeiffer"],
+      "about": "The Ant-Man family becomes trapped in the Quantum Realm and encounters the time-traveling conqueror Kang."
+    },
+    {
+      "title": "Guardians of the Galaxy Vol. 3",
+      "type": "movie",
+      "status": "released",
+      "release_year": 2023,
+      "cast": ["Chris Pratt", "Zoe Saldaña", "Dave Bautista", "Will Poulter", "Chukwudi Iwuji"],
+      "about": "The Guardians race to save Rocket's life and face the scientist who created him."
+    },
+    {
+      "title": "The Marvels",
+      "type": "movie",
+      "status": "released",
+      "release_year": 2023,
+      "cast": ["Brie Larson", "Teyonah Parris", "Iman Vellani", "Samuel L. Jackson", "Zawe Ashton"],
+      "about": "Captain Marvel, Monica Rambeau, and Kamala Khan become linked by their powers and must work together to stop a Kree revolutionary."
+    },
+    {
+      "title": "Deadpool & Wolverine",
+      "type": "movie",
+      "status": "released",
+      "release_year": 2024,
+      "cast": ["Ryan Reynolds", "Hugh Jackman", "Emma Corrin", "Matthew Macfadyen", "Morena Baccarin"],
+      "about": "Deadpool is recruited into a multiversal mission and joins forces with a reluctant Wolverine."
+    },
+    {
+      "title": "Captain America: Brave New World",
+      "type": "movie",
+      "status": "released",
+      "release_year": 2025,
+      "cast": ["Anthony Mackie", "Harrison Ford", "Danny Ramirez", "Shira Haas", "Tim Blake Nelson"],
+      "about": "Sam Wilson, the new Captain America, becomes entangled in an international crisis after meeting the newly elected President Ross."
+    },
+    {
+      "title": "Thunderbolts*",
+      "type": "movie",
+      "status": "released",
+      "release_year": 2025,
+      "cast": ["Florence Pugh", "Sebastian Stan", "David Harbour", "Wyatt Russell", "Hannah John-Kamen"],
+      "about": "A team of morally complicated operatives is assembled for a dangerous mission that forces them to confront their pasts."
+    },
+    {
+      "title": "The Fantastic Four: First Steps",
+      "type": "movie",
+      "status": "released",
+      "release_year": 2025,
+      "cast": ["Pedro Pascal", "Vanessa Kirby", "Joseph Quinn", "Ebon Moss-Bachrach", "Julia Garner"],
+      "about": "Marvel's first family protects a retro-futuristic world while facing a cosmic threat from Galactus."
+    },
+    {
+      "title": "Spider-Man: Brand New Day",
+      "type": "movie",
+      "status": "released",
+      "release_year": 2026,
+      "cast": ["Tom Holland", "Zendaya", "Jacob Batalon"],
+      "about": "Peter Parker begins a new chapter as Spider-Man after the world forgets his civilian identity.",
+      "release_note": "Released in 2026; cast and story details may change as official information is updated."
+    },
+    {
+      "title": "Avengers: Doomsday",
+      "type": "movie",
+      "status": "upcoming",
+      "release_year": 2026,
+      "cast": ["Robert Downey Jr."],
+      "about": "The Avengers and other heroes face Doctor Doom in the next major multiverse event.",
+      "release_note": "Expected release: December 18, 2026. Additional cast and story details remain subject to official confirmation."
+    },
+    {
+      "title": "Avengers: Secret Wars",
+      "type": "movie",
+      "status": "upcoming",
+      "release_year": 2027,
+      "cast": [],
+      "about": "The Avengers face a multiversal conflict inspired by Marvel's Secret Wars storyline.",
+      "release_note": "Expected release: December 17, 2027. Cast and story details have not been fully announced."
+    },
+    {
+      "title": "Blade",
+      "type": "movie",
+      "status": "announced",
+      "release_year": null,
+      "cast": ["Mahershala Ali"],
+      "about": "Vampire hunter Blade is planned to join the Marvel Cinematic Universe.",
+      "release_note": "No confirmed release date; production details are subject to change."
+    }
+  ],
+  "tv_series": [
+    {
+      "title": "WandaVision",
+      "type": "tv_series",
+      "status": "released",
+      "release_year": 2021,
+      "cast": ["Elizabeth Olsen", "Paul Bettany", "Kathryn Hahn", "Teyonah Parris"],
+      "about": "Wanda Maximoff and Vision live through changing television realities while grief and hidden forces reshape their world."
+    },
+    {
+      "title": "The Falcon and the Winter Soldier",
+      "type": "tv_series",
+      "status": "released",
+      "release_year": 2021,
+      "cast": ["Anthony Mackie", "Sebastian Stan", "Wyatt Russell", "Erin Kellyman"],
+      "about": "Sam Wilson and Bucky Barnes confront a global crisis and debate what Captain America's legacy should become."
+    },
+    {
+      "title": "Loki",
+      "type": "tv_series",
+      "status": "released",
+      "release_year": 2021,
+      "cast": ["Tom Hiddleston", "Owen Wilson", "Sophia Di Martino", "Gugu Mbatha-Raw"],
+      "about": "An alternate Loki is recruited by the Time Variance Authority and becomes involved in a threat to the timeline."
+    },
+    {
+      "title": "What If...?",
+      "type": "tv_series",
+      "status": "released",
+      "release_year": 2021,
+      "cast": ["Jeffrey Wright", "Hayley Atwell", "Lake Bell", "Samuel L. Jackson"],
+      "about": "The Watcher explores alternate realities where key moments in the MCU unfold differently."
+    },
+    {
+      "title": "Hawkeye",
+      "type": "tv_series",
+      "status": "released",
+      "release_year": 2021,
+      "cast": ["Jeremy Renner", "Hailee Steinfeld", "Vera Farmiga", "Alaqua Cox"],
+      "about": "Clint Barton teams up with young archer Kate Bishop while trying to resolve unfinished business from his past."
+    },
+    {
+      "title": "Moon Knight",
+      "type": "tv_series",
+      "status": "released",
+      "release_year": 2022,
+      "cast": ["Oscar Isaac", "Ethan Hawke", "May Calamawy", "F. Murray Abraham"],
+      "about": "A museum employee discovers that he shares a body with a mercenary and is connected to an Egyptian moon god."
+    },
+    {
+      "title": "Ms. Marvel",
+      "type": "tv_series",
+      "status": "released",
+      "release_year": 2022,
+      "cast": ["Iman Vellani", "Matt Lintz", "Yasmeen Fletcher", "Mohan Kapur"],
+      "about": "Teenager Kamala Khan gains cosmic powers and learns what it means to be a hero and a member of her family."
+    },
+    {
+      "title": "She-Hulk: Attorney at Law",
+      "type": "tv_series",
+      "status": "released",
+      "release_year": 2022,
+      "cast": ["Tatiana Maslany", "Ginger Gonzaga", "Jameela Jamil", "Mark Ruffalo"],
+      "about": "Lawyer Jennifer Walters navigates her new Hulk abilities while handling superhuman legal cases."
+    },
+    {
+      "title": "I Am Groot",
+      "type": "tv_series",
+      "status": "released",
+      "release_year": 2022,
+      "cast": ["Vin Diesel"],
+      "about": "Baby Groot goes on small, mischievous adventures during his early years with the Guardians."
+    },
+    {
+      "title": "Werewolf by Night",
+      "type": "tv_special",
+      "status": "released",
+      "release_year": 2022,
+      "cast": ["Gael García Bernal", "Laura Donnelly", "Harriet Sansom Harris"],
+      "about": "A group of monster hunters compete for a powerful relic and encounter a dangerous supernatural creature."
+    },
+    {
+      "title": "The Guardians of the Galaxy Holiday Special",
+      "type": "tv_special",
+      "status": "released",
+      "release_year": 2022,
+      "cast": ["Chris Pratt", "Dave Bautista", "Pom Klementieff", "Kevin Bacon"],
+      "about": "The Guardians travel to Earth to give Peter Quill a memorable Christmas surprise."
+    },
+    {
+      "title": "Secret Invasion",
+      "type": "tv_series",
+      "status": "released",
+      "release_year": 2023,
+      "cast": ["Samuel L. Jackson", "Ben Mendelsohn", "Olivia Colman", "Emilia Clarke"],
+      "about": "Nick Fury uncovers a covert Skrull infiltration of Earth and must decide whom he can trust."
+    },
+    {
+      "title": "I Am Groot: Season 2",
+      "type": "tv_series",
+      "status": "released",
+      "release_year": 2023,
+      "cast": ["Vin Diesel"],
+      "about": "Baby Groot continues exploring the galaxy and getting into trouble in a collection of animated shorts."
+    },
+    {
+      "title": "Echo",
+      "type": "tv_series",
+      "status": "released",
+      "release_year": 2024,
+      "cast": ["Alaqua Cox", "Vincent D'Onofrio", "Devery Jacobs", "Zahn McClarnon"],
+      "about": "Maya Lopez returns to her Choctaw Nation community and confronts the consequences of her criminal past."
+    },
+    {
+      "title": "X-Men '97",
+      "type": "tv_series",
+      "status": "released",
+      "release_year": 2024,
+      "cast": ["Ray Chase", "Jennifer Hale", "George Buza", "Cal Dodd"],
+      "about": "The X-Men face new threats and personal conflicts in a continuation of the classic animated series."
+    },
+    {
+      "title": "Agatha All Along",
+      "type": "tv_series",
+      "status": "released",
+      "release_year": 2024,
+      "cast": ["Kathryn Hahn", "Joe Locke", "Sasheer Zamata", "Aubrey Plaza"],
+      "about": "Agatha Harkness gathers a coven and follows a dangerous magical road in search of lost power."
+    },
+    {
+      "title": "Your Friendly Neighborhood Spider-Man",
+      "type": "tv_series",
+      "status": "released",
+      "release_year": 2025,
+      "cast": ["Hudson Thames", "Colman Domingo", "Eugene Byrd", "Grace Song"],
+      "about": "An animated Peter Parker learns to become Spider-Man in an alternate version of his origin story."
+    },
+    {
+      "title": "Daredevil: Born Again",
+      "type": "tv_series",
+      "status": "released",
+      "release_year": 2025,
+      "cast": ["Charlie Cox", "Vincent D'Onofrio", "Margarita Levieva", "Jon Bernthal"],
+      "about": "Matt Murdock and Wilson Fisk pursue opposing visions for New York as their identities and histories collide."
+    },
+    {
+      "title": "Ironheart",
+      "type": "tv_series",
+      "status": "released",
+      "release_year": 2025,
+      "cast": ["Dominique Thorne", "Anthony Ramos", "Lyric Ross", "Alden Ehrenreich"],
+      "about": "Inventor Riri Williams returns to Chicago and encounters a conflict between technology, magic, and power."
+    },
+    {
+      "title": "Eyes of Wakanda",
+      "type": "tv_series",
+      "status": "released",
+      "release_year": 2025,
+      "cast": ["Winnie Harlow", "Cress Williams", "Paterson Joseph"],
+      "about": "Wakandan warriors travel across history to recover dangerous vibranium artifacts."
+    },
+    {
+      "title": "The Fantastic Four: First Steps - Behind the Scenes",
+      "type": "documentary_series",
+      "status": "announced",
+      "release_year": null,
+      "cast": [],
+      "about": "A behind-the-scenes companion series would explore the making of The Fantastic Four: First Steps.",
+      "release_note": "Included only as an announced companion entry; release details require official confirmation."
+    }
+  ]
+}
